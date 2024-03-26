@@ -1,0 +1,86 @@
+.trips{
+    background-color: #f5f5f5;
+    width:75%;
+    margin-left: 164px;
+}
+.trip-package{
+font-size: 25px;
+}
+.trip-label {
+    font-family: Whitney;
+    font-size: 25px;
+    line-height: 1;
+    color: #282c3f;
+    float: left;
+    margin-right:16px;
+    margin-top: 28px;
+}
+
+.page-fullWidthComponent {
+    width: 100%;
+    display: inline-block;
+    margin: 0px;
+    background-color: #596ebf;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(Background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.infoLabel {
+    color: #282C3F;
+    font-weight: 600;
+    font-size: 40px;
+    border-bottom: 0px solid #eaeaec;
+    padding-bottom: 0px;
+    font-family: Whitney-SemiBold, Whitney!important;
+    padding: 0 0px 0px 0px;
+}
+
+.trip {
+    text-align: left;
+    background-color: #eaeaec;
+    padding: 2%;
+}
+
+.trip-id-label {
+    padding-top: 0px;
+}
+
+.trip-status {
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 500;
+    color: rgb(3, 166, 133);
+    float: right;
+}
+
+.Text-Text {
+    font-family: Whitney;
+    font-size: x-large;
+    line-height: 2;
+    color: #282c3f;
+    background-color: #f5f5f5;
+
+}
+
+.trip-book-btn {
+    display: inline;
+    float: right;
+
+}
+
+.all-trip-table {
+    padding-left: 10%;
+    text-align: center;
+    align-self: center;
+    font-size: larger;
+}
+
+.all-trip-table tr {
+    height: 10px;
+}
+
+
+.trip-desc {
+    font-family: cursive;
+    font-size: larger;
+}

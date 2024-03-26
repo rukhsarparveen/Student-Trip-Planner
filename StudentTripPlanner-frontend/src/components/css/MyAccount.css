@@ -1,0 +1,127 @@
+/* *
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+} */
+.page-fullWidthComponent1 {
+    /* padding: 110px; */
+    margin: 0;
+    padding: 10px;
+    width: 75%;
+    display: inline-block;
+    margin: 5px;
+    /* background-color: #d4d5d9; */
+}
+
+.page-page {
+    /* margin: 8% auto; */
+    /* max-width: 980px; */
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(Background.jpg);
+    background-size:cover;
+    align-items: stretch;
+
+}
+
+.account-account {
+    display: none;
+    border-bottom: 1px solid #d4d5d9;
+    padding: 15px 0px;
+    font-size: 12px;
+}
+
+.account-heading {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.sidebar-sidebar {
+    vertical-align: top;
+    display: inline-block;
+    border: 1px solid #d4d5d9;
+    /* box-shadow: #d4d5d9; */
+    text-align: left;
+    padding: 0px 36px 0px 0px;
+    font-size: 15px;
+    background-color: #d4d5d9;
+    float: left;
+}
+
+.segment-segment 
+{
+    /* border-top: 1px solid #d4d5d9; */
+    padding: 20px 0px 0px 20px;
+    width: 145px;
+    border-bottom: 1px solid #4d5d9a;
+}
+
+.segment-link {
+    display: block;
+    margin: 5px 0px;
+}
+
+.page {
+    width: 76%;
+    margin: 15px;
+    display: inline-block;
+}
+
+.profile-card {
+    width: 480px;
+    height: 400px;
+    position: relative;
+    margin: 5% auto;
+    background:rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.infoLabel {
+    color: #282C3F;
+    font-weight: 600;
+    font-size: 18px;
+    border-bottom: 1px solid #eaeaec;
+    padding-bottom: 15px;
+    font-family: Whitney-SemiBold, Whitney!important;
+    padding: 0 24px 24px 24px;
+}
+
+.profile-infoTable {
+    margin: 25px 0 25px 0;
+    padding: 0 24px;
+    font-family: Whitney-Book , Whitney !important;
+}
+
+tr
+ {
+    height: 43px;
+    text-align: left;
+}
+
+td {
+    width: 200px;
+    margin: 10px;
+    padding: 0 4px;
+    text-decoration: none;
+    color: #282C3F !important;
+    font-size: 16px;
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+.profile-editButton {
+    padding: 5px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background:linear-gradient(to right, #ff105f,#ffad06) ;
+    border:0;
+    outline: none;
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+}
